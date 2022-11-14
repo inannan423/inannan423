@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
+<div style="display:flex;justify-content:center;">
   
 ![orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423&theme=react-dark&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on Front-end Development.
 - 🌱 I’m currently learning `Node.js` , `TypeScript` , `React` and `Vue.js`.
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 🏫 I'm now study at BJFU.
 
 
-</center>
+</div>
