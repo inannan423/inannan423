@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![myimg](https://jetzihan.netlify.app/img/sidepic.png)
-
  <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
