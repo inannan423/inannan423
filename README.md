@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Front-end Development.
+- 🌱 I’m currently learning TypeScript , React and Vue.js.
+- 📫 Reach me: jetzihan@outlook.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
+
