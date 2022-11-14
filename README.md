@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 - 📫 Reach me: jetzihan@outlook.com
 - 🏫 I'm now study at BJFU.
  
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/inannan423/inannan423/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
   
 ![orange's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/inanan423/inannan423/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
 
 
 </div>
