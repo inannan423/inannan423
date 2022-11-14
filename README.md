@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
+<center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=react-dark)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 🏫 I'm now study at BJFU.
 
 
-
+</center>
