@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Front-end Development.
-- 🌱 I’m currently learning TypeScript , React and Vue.js.
-- 📫 Reach me: jetzihan@outlook.com
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+- 🔭 I’m currently working on Front-end Development.
+- 🌱 I’m currently learning `Node.js` , `TypeScript` , `React` and `Vue.js`.
+- 📫 Reach me: jetzihan@outlook.com
+- 🏫 I'm now study at BJFU.
+
+
 
