@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  ![mid](https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/jetzihanheadpic.png)
  
 🔭 I’m currently working on Front-end Development.  
-🌱 I’m currently learning `Node.js` , `TypeScript` , `React` and `Vue.js`.  
+🌱 I’m currently learning `unity` , `Node.js` , `TypeScript` , `React` and `Vue.js`.  
 📫 Reach me: jetzihan@outlook.com  
 🏫 I'm now studying at BJFU.  
  
