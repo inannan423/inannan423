@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=inannan423&bg_color=fffff0&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=inannan423&bg_color=fffff0&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  🎃 My Projects  
