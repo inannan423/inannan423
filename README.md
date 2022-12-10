@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 
  🎃 My Projects  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/anuraghazra/github-readme-stats)  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)](https://github.com/anuraghazra/github-readme-stats)  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/anuraghazra/github-readme-stats)   
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/anuraghazra/github-readme-stats)
  
- 🍀 Projects I'm involved in  
+ 🍀 Projects I'm contributed to 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=wechat-chatgpt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuergaosi233&repo=wechat-chatgpt)](https://github.com/anuraghazra/github-readme-stats)
  
  <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
