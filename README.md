@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/anuraghazra/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/anuraghazra/github-readme-stats)
  
- 🍀 Projects I'm contributed to 
+ 🍀 Projects I've contributed to  
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuergaosi233&repo=wechat-chatgpt)](https://github.com/anuraghazra/github-readme-stats)
  
