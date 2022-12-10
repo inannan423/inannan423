@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 ### Hi there 👋
  
- ![mid](https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/jetzihanheadpic.png)
+<!--  ![mid](https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/jetzihanheadpic.png) -->
  
 🔭 I’m currently working on Front-end Development.  
 🌱 I’m currently learning `unity` , `Node.js` , `TypeScript` , `React` and `Vue.js`.  
@@ -29,7 +29,21 @@ Here are some ideas to get you started:
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inannan423)](https://github.com/anuraghazra/github-readme-stats)
 
+ 🎃 My Projects  
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/anuraghazra/github-readme-stats)   
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 🍀 Projects I'm involved in  
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=wechat-chatgpt)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
