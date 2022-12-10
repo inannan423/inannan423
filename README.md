@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- [![jetzihan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jetzihan)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=inannan423&bg_color=fffff0&theme=tokyo-night&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ 
  🎃 My Projects  
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/anuraghazra/github-readme-stats)
