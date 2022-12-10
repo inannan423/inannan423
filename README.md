@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inannan423)](https://github.com/anuraghazra/github-readme-stats)
+ [![jetzihan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jetzihan)](https://github.com/anuraghazra/github-readme-stats)
 
  🎃 My Projects  
  
