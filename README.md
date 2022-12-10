@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 🔭 I’m currently working on Front-end Development.  
 🌱 I’m currently learning `unity` , `Node.js` , `TypeScript` , `React` and `Vue.js`.  
-👑 My personal site: https://jetzihan.netlify.app/
+👑 My personal site: https://jetzihan.netlify.app/  
 📫 Reach me: jetzihan@outlook.com  
 🏫 I'm now studying at BJFU.  
  
