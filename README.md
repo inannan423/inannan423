@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  
 🔭 I’m currently working on Front-end Development.  
 🌱 I’m currently learning `unity` , `Node.js` , `TypeScript` , `React` and `Vue.js`.  
+👑 My personal site: https://jetzihan.netlify.app/
 📫 Reach me: jetzihan@outlook.com  
 🏫 I'm now studying at BJFU.  
  
@@ -36,14 +37,14 @@ Here are some ideas to get you started:
  
  🎃 My Projects  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/inannan423/Daymd)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/inannan423/orange-nan-mini_program))
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/inannan423/csspano)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/inannan423/reportPeace)
  
  🍀 Projects I've contributed to  
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuergaosi233&repo=wechat-chatgpt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuergaosi233&repo=wechat-chatgpt)](https://github.com/fuergaosi233/wechat-chatgpt)
  
  <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
