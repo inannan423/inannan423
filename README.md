@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
- 🎃 My Projects  
+ 🎃 My Projects 🎃
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=Daymd)](https://github.com/inannan423/Daymd)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=orange-nan-mini_program)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/inannan423/orange-nan-mini_program))
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=csspano)](https://github.com/inannan423/csspano)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inannan423&repo=reportPeace)](https://github.com/inannan423/reportPeace)
  
- 🍀 Projects I've contributed to  
+ 🍀 Projects I've contributed to 🍀
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fuergaosi233&repo=wechat-chatgpt)](https://github.com/fuergaosi233/wechat-chatgpt)
  
