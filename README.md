@@ -6,7 +6,7 @@
 <img align="right" src="https://readme-stats-dmego.vercel.app/api?username=inannan423&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Tensorflow , Pytorch , Golang and AIGC.</li>
+    <li> 🌱 I’m currently learning ML , Tensorflow , Pytorch , Golang and AIGC.</li>
     <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
     <li> 🏫 I'm now studying at BJFU.</li>
