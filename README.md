@@ -7,7 +7,7 @@
 
 <ul>
     <li> 🌱 I’m currently learning Tensorflow , Pytorch , Golang and AIGC.</li>
-    <li> 📫 Reach me: <a href="jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
+    <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
     <li> 🏫 I'm now studying at BJFU.</li>
     <li> 🚝 A prospective graduate student majoring in CS at 北交大 Beijing Jiao Tong University, School of computer and information technology.</li>
