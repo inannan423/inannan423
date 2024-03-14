@@ -16,6 +16,6 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://komarev.com/ghpvc/?username=inannan423" alt="dmego" />
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://komarev.com/ghpvc/?username=inannan423" alt="inannan423" />
