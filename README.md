@@ -10,7 +10,7 @@
     <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
     <li> 🏫 I'm now studying at BJFU.</li>
-    <li> 🚝 A prospective graduate student majoring in CS at <b style="background-color: 'blue'">北交大</b> Beijing Jiao Tong University, School of computer and information technology.</li>
+    <li> 🚝 A prospective graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of computer and information technology.</li>
     <li> 💻 My tech stack: React , TypeScript , Next.js , C++ , Python , Unity , Tensorflow , Pytorch , Golang , Figma.</li>
 </ul>
 
