@@ -9,7 +9,7 @@
     <li> 🌱 I’m currently learning ML , Tensorflow , Pytorch , Golang and AIGC.</li>
     <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
-    <li> 🏫 I'm now studying at BJFU.</li>
+    <li> 🏫 I'm now studying at 北林大 BJFU.</li>
     <li> 🚝 A prospective graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
     <li> 💻 My tech stack: React , TypeScript , Next.js , C++ , Python , Unity , Tensorflow , Pytorch , Golang , Figma.</li>
 </ul>
