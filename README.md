@@ -16,6 +16,7 @@
 
 ### 🌗 Development Breakdown
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://raw.githubusercontent.com/inannan423/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/inannan423/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
  <img src="https://komarev.com/ghpvc/?username=inannan423" alt="inannan423" />
