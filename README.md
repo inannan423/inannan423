@@ -16,7 +16,7 @@
 
 ### 🌗 Development Breakdown
 
-![](https://raw.githubusercontent.com/inannan423/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/inannan423/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-light-mode-only)
 
  <img src="https://komarev.com/ghpvc/?username=inannan423" alt="inannan423" />
