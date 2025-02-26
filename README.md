@@ -10,7 +10,7 @@
     <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
     <li> 🚝 A graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
-    <li> 💻 My tech stack: React , TypeScript , Next.js , C++ , Python , Unity , Tensorflow , Pytorch , Golang , Figma.</li>
+    <li> 💻 My tech stack: Golang , Python , Pytorch , React , TypeScript , Next.js , C++ , Unity , Tensorflow , Figma.</li>
 </ul>
 
 ### 🌗 Development Breakdown
