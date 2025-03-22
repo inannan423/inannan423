@@ -9,7 +9,7 @@
     <li> 🌱 I’m currently learning LLM , CausalML , Pytorch , Golang and AIGC.</li>
     <li> 📫 Reach me: <a href="mailto:jetzihan@outlook.com">jetzihan@outlook.com</a>.</li>
     <li> 📝 I regulary write articles on <a href="https://www.jet-lab.site/">jetlab</a>.</li>
-    <li> 🚝 A graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
+    <li> 🚝 A graduate student majoring in CS at <b>Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
     <li> 💻 My tech stack: <b>Go</b> , Python , Pytorch , TypeScript , Next.js , Unity , Tensorflow , Figma.</li>
 </ul>
 
