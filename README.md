@@ -18,6 +18,6 @@
 ![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/inannan423/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-theta-66.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/inannan423/github-readme-stats)
 
  <img src="https://komarev.com/ghpvc/?username=inannan423" alt="inannan423" />
