@@ -12,11 +12,9 @@
     <li> 🚝 A graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
     <li> 💻 My tech stack: Golang , Python , Pytorch , React , TypeScript , Next.js , C++ , Unity , Tensorflow , Figma.</li>
 </ul>
-
+<!-- 
 ### 🌗 Development Breakdown
-
 ![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-light-mode-only)
-
-
+-->
  <img src="https://komarev.com/ghpvc/?username=inannan423" alt="inannan423" />
