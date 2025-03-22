@@ -13,8 +13,7 @@
     <li> 💻 My tech stack: <b>Go</b> , Python , Pytorch , TypeScript , Next.js , Unity , Tensorflow , Figma.</li>
 </ul>
 
-![Welcome](https://github.com/user-attachments/assets/1e74c574-a1cb-4b14-9bb3-5df2f25cc73e)
-
+![Welcome](https://github.com/user-attachments/assets/253d2401-c641-411f-9293-e49b629ffc55)
 
 <!-- 
 ### 🌗 Development Breakdown
