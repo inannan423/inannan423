@@ -12,6 +12,10 @@
     <li> 🚝 A graduate student majoring in CS at <b>北交大 Beijing Jiao Tong University</b>, School of Computer Science and Technology.</li>
     <li> 💻 My tech stack: <b>Go</b> , Python , Pytorch , TypeScript , Next.js , Unity , Tensorflow , Figma.</li>
 </ul>
+
+![Welcome](https://github.com/user-attachments/assets/1e74c574-a1cb-4b14-9bb3-5df2f25cc73e)
+
+
 <!-- 
 ### 🌗 Development Breakdown
 ![](https://raw.githubusercontent.com/inannan423/stats/master/generated/languages.svg#gh-dark-mode-only)
